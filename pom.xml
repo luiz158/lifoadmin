@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>lifoadmin.example</groupId>
-    <artifactId>lifo</artifactId>
+    <artifactId>lifoadmin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lifo</name>
+    <name>lifoadmin</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
